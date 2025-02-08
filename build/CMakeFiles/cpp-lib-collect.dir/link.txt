@@ -1,1 +1,0 @@
-/usr/bin/c++ -g "CMakeFiles/cpp-lib-collect.dir/main.cpp.o" -o cpp-lib-collect 
