@@ -1,0 +1,40 @@
+GNU GENERAL PUBLIC LICENSE  
+Version 3, 29 June 2007  
+
+Copyright (C) [2025] [ghillie575]  
+
+Everyone is permitted to copy and distribute verbatim copies  
+of this license document, but changing it is not allowed.  
+
+---
+
+### Preamble:  
+The GNU General Public License is a free, copyleft license for software and other types of works.  
+
+The licenses for most software and other practical works are designed to restrict your freedom to share and modify them. By contrast, the GNU General Public License ensures your freedom to share and modify all versions of a program, keeping it free for all users.  
+
+When you distribute a modified version of this software, you must license the entire work under the GPL-3.0 license. This guarantees that future users also have the same rights to use and modify the software.  
+
+---
+
+### **Permissions and Conditions:**  
+- You may run, use, and modify the program for any purpose.  
+- You may distribute modified versions, but only under the same GPL-3.0 license.  
+- You must provide access to the source code of any distributed modifications.  
+
+- You may not distribute modified versions under a non-GPL license.  
+- You may not impose additional restrictions beyond those allowed by GPL-3.0.  
+
+For full details, see: https://www.gnu.org/licenses/gpl-3.0.html  
+
+---
+
+### **Third-Party Library Disclaimer:**  
+This software may download, install, or interact with third-party libraries. Each third-party library is subject to its own license and terms.  
+
+I do not claim ownership over libraries installed by this application. This software only facilitates the installation and management of external libraries.  
+
+### **Liability Disclaimer:**  
+I am not responsible for any legal, security, or functional issues related to third-party libraries. Users are responsible for ensuring compliance with the licenses of any installed libraries.  
+
+---

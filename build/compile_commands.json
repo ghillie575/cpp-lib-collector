@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/media/mikhail/Files/Projects/PakageCollector/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/cppcollect.dir/main.cpp.o -c /media/mikhail/Files/Projects/PakageCollector/main.cpp",
+  "file": "/media/mikhail/Files/Projects/PakageCollector/main.cpp",
+  "output": "CMakeFiles/cppcollect.dir/main.cpp.o"
+}
+]
