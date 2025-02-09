@@ -2,10 +2,12 @@ cmake_minimum_required(VERSION 3.5.0)
 project(cpp-lib-collect VERSION 0.1.0 LANGUAGES C CXX)
 
 add_executable(cppcollect main.cpp)
-
+file(GLOB_RECURSE SRC_FILES ${CMAKE_SOURCE_DIR}/src/*.cpp)
+target_sources(cppcollect PRIVATE ${SRC_FILES})
 include(CTest)
 enable_testing()
-
+target_include_directories(cppcollect PUBLIC ${CMAKE_SOURCE_DIR}/include)
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
+set_target_properties(cppcollect PROPERTIES CXX_STANDARD 17 CXX_STANDARD_REQUIRED YES)
